@@ -24,7 +24,7 @@
    * Clases de Javascript
    * Stateful
    * Retornan JSX a través de su método `.render()`
-   * Disponen de las propiedades en `this.props`, en cuyo caso requiere de constructor y método `.super()`
+   * Disponen de las propiedades en `this.props`
 
 - Desarrollo de componentes:
   * Importar React y, en caso de componentes de clase, `{ Component }`

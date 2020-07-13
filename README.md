@@ -26,10 +26,10 @@ Existen dos tipos de componentes en React:
    * Retornan JSX a través de su método `.render()`
    * Disponen de las propiedades en `this.props`
 
-- Desarrollo de componentes:
-  * Importar React y, en caso de componentes de clase, `{ Component }`
-  * Declaración del componente.
-  * Exportación del componente (por defecto o nominal).
+El desarrollo de componentes supone:
+  - Importar React y, en caso de componentes de clase, `{ Component }`
+  - Declaración del componente.
+  - Exportación del componente (por defecto o nominal).
 
 ## Main points: JSX
    * Javavascript eXtension que produce *React elements* para ser renderizados en el DOM.

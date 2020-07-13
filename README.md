@@ -32,7 +32,7 @@ El desarrollo de componentes supone:
   - Exportación del componente (por defecto o nominal).
 
 ## Main points: JSX
-   * Javavascript eXtension que produce *React elements* para ser renderizados en el DOM.
+   * Javascript **eXtension** que produce *React elements* para ser renderizados en el DOM.
    * Los elementos de JSX son manejados como expresiones de Javascript.
    * Todas las etiquetas disponen de apertura y cierre.
    * La sintaxis de algunos atributos se ve alterada (`class` -> `className`).

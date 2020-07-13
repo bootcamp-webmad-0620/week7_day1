@@ -1,0 +1,7 @@
+.stundent-card {
+    width: calc(33.33% - 12px);
+    display: inline-block;
+    border: 1px solid;
+    margin: 10px 5px;
+    text-align: center;
+}

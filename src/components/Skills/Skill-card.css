@@ -1,0 +1,7 @@
+.skill-card {
+    width: calc(25% - 12px);
+    display: inline-block;
+    margin: 10px 5px;
+    border: 1px solid;
+    text-align: center;
+}

@@ -7,13 +7,13 @@
 > React | Components and Props
 
 ## Main points: React
-- Librería de Javascript para componer plataformas **Single Page Application**.
+- Librería de Javascript para interfaces de usuario en formato **Single Page Application**.
 - La transmisión de información se realiza a través de `props` en base a un **single way data flow**.
 - El paquete global `create-react-app` cubre todos los requerimientos para comenzar un proyecto de React.
 
 ## Main points: Componentes
 
-- Existen dos tipos de componentes en React:
+Existen dos tipos de componentes en React:
  - Componentes funcionales:
    * Funciones de Javascript
    * Stateless
